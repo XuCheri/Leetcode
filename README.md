@@ -4,4 +4,4 @@
 
 ## 两数之和
 
-[两数之和](../Leetcode/algorithms/两数之和/两数之和.md)
+[两数之和](https://github.com/XuCheri/Leetcode/blob/main/algorithms/两数之和/两数之和.md)
